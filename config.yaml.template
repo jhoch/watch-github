@@ -1,3 +1,4 @@
 token: <TOKEN>
-org: kubernetes
+data-dir: <ABSOLUTE_PATH>
+owner: kubernetes
 repo: kubernetes
